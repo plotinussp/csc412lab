@@ -1,2 +1,2 @@
 Initial Foo Commit
-
+New Verion 1.0 Released
